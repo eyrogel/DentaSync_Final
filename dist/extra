@@ -1,0 +1,185 @@
+ <section id="section2">
+      <div id="about-container" class="mt-32 tablet:mt-28">
+        <h1 class="flex flex-col justify-center items-center font-bold">
+          <span class="text-dsblue text-2xl tablet:text-3xl">WHAT IS</span>
+          <span class="text-dsblue text-4xl tablet:text-5xl tracking-wide"
+            >DENTASYNC<span class="text-3xl">?</span></span
+          >
+        </h1>
+        <div id="about-body">
+          <img
+            src="/imgs/t1.png"
+            class="w-24 absolute top-[49rem] right-0 z-10"
+          />
+          <img
+            src="/imgs/t3.png"
+            class="w-24 absolute top-[70rem] left-[-2rem] z-10"
+          />
+          <img
+            src="/imgs/t2.png"
+            class="w-24 absolute top-[82rem] right-0 z-10"
+          />
+          <div id="container-p" class="">
+            <p
+              class="text-center mx-auto phone:px-10 tablet:px-16 tablet:text-xl phone:mt-3 phone:text-md leading-relaxed"
+            >
+              DentaSync is your
+              <span class="font-bold"
+                >ultimate dental clinic booking system,</span
+              >
+              designed to
+              <span class="font-bold">improve the patient experience</span> and
+              <span class="font-bold">enhance dental care.</span> Our platform
+              uses the <span class="font-bold">latest technology</span> to
+              create a
+              <span class="font-bold">smooth and hassle-free</span> process for
+              <span class="font-bold"
+                >both patients and dental practitioners.</span
+              >
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="section3">
+      <div id="feature-cont" class="mt-28 tablet:mt-44">
+        <h1 class="flex flex-col justify-center items-center font-bold">
+          <span class="text-dsgreen text-2xl tablet:text-3xl">WHY CHOOSE</span>
+          <span class="text-dsgreen text-4xl tablet:text-5xl"
+            >DENTASYNC<span class="text-3xl">?</span></span
+          >
+        </h1>
+        <div id="ftr-cont">
+          <div
+            id="srvc-cards"
+            class="phone:flex phone:flex-col phone:justify-center phone:items-center"
+          >
+            <div
+              id="srvc1"
+              class="bg-dsgreen rounded-lg flex flex-col justify-center items-center w-[75%] tablet:w-[60%] py-5 tablet:py-10 mt-28 tablet:mt-24"
+            >
+              <div
+                id="img-cont"
+                class="flex justify-center items-center mt-[-40%]"
+              >
+                <img
+                  src="/imgs/folder-3d.png"
+                  alt="folder-icon"
+                  class="w-[80%]"
+                />
+              </div>
+              <h1
+                class="text-dswhite phone:text-xl phone:mt-[-10%] font-bold phone:mx-6 text-left"
+              >
+                Streamlined Dental Records Management
+              </h1>
+              <p
+                class="phone:text-md text-dswhite text-left phone:mx-6 mt-3 phone:text-[0.9rem]"
+              >
+                Simplify administrative tasks and improve communication by
+                managing patient information securely in one place, including
+                personal details, medical history, treatment plans, and
+                appointments.
+              </p>
+            </div>
+
+            <div
+              id="srvc2"
+              class="bg-dsblue rounded-lg flex flex-col justify-center items-center w-[75%] tablet:w-[60%] py-5 tablet:py-10 mt-28 tablet:mt-32"
+            >
+              <div
+                id="img-cont"
+                class="flex justify-center items-center mt-[-32%]"
+              >
+                <img
+                  src="/imgs/comp-3d.png"
+                  alt="folder-icon"
+                  class="w-[68%]"
+                />
+              </div>
+              <h1
+                class="text-dswhite phone:text-xl font-bold phone:mx-5 text-left"
+              >
+                Digitalized Dental Chart
+              </h1>
+              <p class="text-dswhite text-left phone:mx-6 mt-3 text-[0.9rem]">
+                Enjoy the convenience of a digital dental chart that lets
+                dentists store, manage, and update patient teeth status
+                efficiently, improving record-keeping practices.
+              </p>
+            </div>
+            <div
+              id="srvc3"
+              class="bg-dsgreen rounded-lg flex flex-col justify-center items-center w-[75%] tablet:w-[60%] py-5 tablet:py-10 mt-28 tablet:mt-24"
+            >
+              <div
+                id="img-cont"
+                class="flex justify-center items-center mt-[-42%]"
+              >
+                <img
+                  src="/imgs/record-3d.png"
+                  alt="folder-icon"
+                  class="w-[100%]"
+                />
+              </div>
+              <h1
+                class="text-dswhite phone:text-xl font-bold phone:mx-6 text-left mt-[-13%]"
+              >
+                Comprehensive Treatment Documentation
+              </h1>
+              <p class="text-dswhite text-left mx-6 mt-3 text-[0.9rem]">
+                Enhance treatment records and patient understanding with a
+                digital system that securely stores before and after pictures,
+                X-rays, and other images, providing a visual journey of
+                treatment and boosting patient engagement..
+              </p>
+            </div>
+          </div>
+        </div>
+        <div id="ftr-desc">
+          <div id="srvc-cards2" class="text-center">
+            <h1
+              class="flex flex-col justify-center items-center font-bold mt-14"
+            >
+              <span class="text-dsgreen text-2xl tablet:text-3xl phone:mx-20"
+                >Patient-Focused Features</span
+              >
+            </h1>
+            <div id="srvc-card-1" class="">
+              <div id="img-cont" class="flex justify-center items-center">
+                <img
+                  src="/imgs/clock-3d.png"
+                  alt="folder-icon"
+                  class="w-[45%] border rounded-2xl bg-dslightgreen border-dsgreen phone:mt-6"
+                />
+              </div>
+              <h1
+                class="text-lg text-dsgreen font-bold tablet:text-2xl phone:mt-2"
+              >
+                Convenient Appointment Booking
+              </h1>
+              <p class="mx-10 tablet:mx-20 phone:text-[0.9rem]">
+                Book your dental appointments effortlessly online, saving time
+                without the hassle of calls or visits.
+              </p>
+            </div>
+            <div id="srvc-card-2">
+              <div id="img-cont" class="flex justify-center items-center">
+                <img
+                  src="/imgs/calendar-3d.png"
+                  alt="folder-icon"
+                  class="w-[45%] border rounded-2xl border-gray-300 phone:mt-6"
+                />
+              </div>
+              <h1 class="text-lg text-dsgreen font-bold tablet:text-2xl">
+                Flexible Calendar Management
+              </h1>
+              <p class="mx-10 tablet:mx-20 phone:text-[0.9rem]">
+                Stay organized with our calendar, showing available dentists and
+                making rescheduling easy to fit your schedule changes.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
