@@ -2239,6 +2239,26 @@ video {
     width: 60%;
   }
 
+  .desktop-m\:w-\[30\%\] {
+    width: 30%;
+  }
+
+  .desktop-m\:w-\[20\%\] {
+    width: 20%;
+  }
+
+  .desktop-m\:w-\[80\%\] {
+    width: 80%;
+  }
+
+  .desktop-m\:w-\[5\%\] {
+    width: 5%;
+  }
+
+  .desktop-m\:w-\[2\%\] {
+    width: 2%;
+  }
+
   .desktop-m\:px-0 {
     padding-left: 0px;
     padding-right: 0px;
