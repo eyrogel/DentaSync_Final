@@ -2,3 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+#next-arrow {
+    height: 10rem;
+    width: 10rem;
+}
+
+#prev-arrows {
+    height: 10rem;
+    width: 10rem;
+}
