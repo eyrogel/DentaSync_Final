@@ -11,6 +11,7 @@ document
   const new_swiper = new Swiper('#mySwiper1', {
   centeredSlides: true,
   slidesPerView: "auto",
+  centeredSlides: true,
   grabCursor: true,
   coverflowEffect: {
     rotate: 30,  // Less extreme rotation

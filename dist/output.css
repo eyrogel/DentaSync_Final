@@ -985,10 +985,6 @@ video {
   text-align: center;
 }
 
-.align-baseline {
-  vertical-align: baseline;
-}
-
 .font-\[Poppins\] {
   font-family: Poppins;
 }
@@ -1270,6 +1266,10 @@ video {
   @media (min-width: 1920px) {
     height: 500px;
   }
+}
+
+#mySwiper1 {
+  width: 95%;
 }
 
 .hover\:border-dsblue:hover {
