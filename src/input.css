@@ -3,11 +3,115 @@
 @tailwind utilities;
 
 #next-arrow {
-    height: 10rem;
-    width: 10rem;
+  height: 3rem;
+  width: 3rem;
 }
 
 #prev-arrows {
+  height: 3rem;
+  width: 3rem;
+}
+
+@media (min-width: 360px) {
+  #next-arrow {
+    height: 5rem;
+    width: 5rem;
+  }
+  #prev-arrows {
+    height: 5rem;
+    width: 5rem;
+  }
+}
+
+@media (min-width: 768px) {
+  #next-arrow {
+    height: 5rem;
+    width: 5rem;
+  }
+  #prev-arrows {
+    height: 5rem;
+    width: 5rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  #next-arrow {
+    height: 6rem;
+    width: 6rem;
+  }
+  #prev-arrows {
+    height: 6rem;
+    width: 6rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  #next-arrow {
+    height: 7rem;
+    width: 7rem;
+  }
+  #prev-arrows {
+    height: 7rem;
+    width: 7rem;
+  }
+}
+@media (min-width: 1440px) {
+  #next-arrow {
+    height: 8rem;
+    width: 8rem;
+  }
+  #prev-arrows {
+    height: 8rem;
+    width: 8rem;
+  }
+}
+
+@media (min-width: 1600px) {
+  #next-arrow {
+    height: 9rem;
+    width: 9rem;
+  }
+  #prev-arrows {
+    height: 9rem;
+    width: 9rem;
+  }
+}
+
+@media (min-width: 1920px) {
+  #next-arrow {
     height: 10rem;
     width: 10rem;
+  }
+  #prev-arrows {
+    height: 10rem;
+    width: 10rem;
+  }
+}
+
+.srvc-card {
+  @apply flex flex-col items-center p-10;
+  margin: 5px;
+  @screen phone {
+    flex-direction: column; 
+    width: 70%; 
+}
+}
+
+.srvc-card-img {
+  @apply rounded-2xl border border-dsgreen bg-dslightgreen;
+  @screen tablet {
+    height: 250px; 
+  }
+  @screen laptop {
+    height: 300px; 
+  }
+  @screen laptop-s {
+    height: ; 
+  }
+  @screen desktop-s {
+    height: 350px; 
+  }
+  @screen desktop-m {
+    height: 500px; 
+  }
 }
