@@ -637,16 +637,6 @@ video {
   margin-right: auto;
 }
 
-.my-5 {
-  margin-top: 1.25rem;
-  margin-bottom: 1.25rem;
-}
-
-.my-3 {
-  margin-top: 0.75rem;
-  margin-bottom: 0.75rem;
-}
-
 .my-4 {
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -2061,64 +2051,14 @@ video {
 }
 
 @media (min-width: 1440px) {
-  .laptop-m\:mx-0 {
-    margin-left: 0px;
-    margin-right: 0px;
-  }
-
-  .laptop-m\:mx-2 {
-    margin-left: 0.5rem;
-    margin-right: 0.5rem;
-  }
-
-  .laptop-m\:mx-1 {
-    margin-left: 0.25rem;
-    margin-right: 0.25rem;
-  }
-
   .laptop-m\:mx-3 {
     margin-left: 0.75rem;
     margin-right: 0.75rem;
   }
 
-  .laptop-m\:mx-\[0\.3rem\] {
-    margin-left: 0.3rem;
-    margin-right: 0.3rem;
-  }
-
-  .laptop-m\:mx-\[1rem\] {
-    margin-left: 1rem;
-    margin-right: 1rem;
-  }
-
-  .laptop-m\:mx-\[2rem\] {
-    margin-left: 2rem;
-    margin-right: 2rem;
-  }
-
-  .laptop-m\:mx-\[1\.6rem\] {
-    margin-left: 1.6rem;
-    margin-right: 1.6rem;
-  }
-
-  .laptop-m\:mx-\[1\.8rem\] {
-    margin-left: 1.8rem;
-    margin-right: 1.8rem;
-  }
-
-  .laptop-m\:mx-\[1\.9rem\] {
-    margin-left: 1.9rem;
-    margin-right: 1.9rem;
-  }
-
   .laptop-m\:mx-\[3rem\] {
     margin-left: 3rem;
     margin-right: 3rem;
-  }
-
-  .laptop-m\:mx-6 {
-    margin-left: 1.5rem;
-    margin-right: 1.5rem;
   }
 
   .laptop-m\:ml-\[9\%\] {
@@ -2198,10 +2138,6 @@ video {
     padding-bottom: 3rem;
   }
 
-  .laptop-m\:pt-2 {
-    padding-top: 0.5rem;
-  }
-
   .laptop-m\:pt-80 {
     padding-top: 20rem;
   }
@@ -2214,16 +2150,6 @@ video {
   .laptop-m\:text-5xl {
     font-size: 3rem;
     line-height: 1;
-  }
-
-  .laptop-m\:text-2xl {
-    font-size: 1.5rem;
-    line-height: 2rem;
-  }
-
-  .laptop-m\:text-3xl {
-    font-size: 1.875rem;
-    line-height: 2.25rem;
   }
 
   .laptop-m\:leading-loose {
