@@ -89,8 +89,7 @@
 }
 
 .srvc-card {
-  @apply flex flex-col items-center p-10;
-  margin: 5px;
+  @apply flex flex-col items-center;
   @screen phone {
     flex-direction: column; 
     width: 70%; 
